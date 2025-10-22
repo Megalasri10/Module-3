@@ -22,6 +22,7 @@ else:
 ```
 
 ## Output
+<img width="1682" height="472" alt="image" src="https://github.com/user-attachments/assets/2cf2728a-e865-4ce6-8c3a-4db2e7197f91" />
 
 ## Result
 The code is executed successfully.
